@@ -1,0 +1,33 @@
+.container{
+    margin-bottom: 100px;
+}
+.navbar-text{
+    color: black;
+}
+.white-bg{
+    background-image: url(images/bg-1.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 5%;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 20px;
+}
+.buy-now-button{
+    background-image: linear-gradient(to bottom, black 0%, black 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.see-all-button{
+    color: orange;
+    border: none;
+}
